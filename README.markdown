@@ -21,3 +21,5 @@ Keep one in the top drawer of your desktop and use it to:
 * Repair Corrupted PDF (Where Possible)
 
 Pdftk allows you to manipulate PDF easily and freely. It does not require Acrobat, and it runs on Windows, Linux, Mac OS X, FreeBSD and Solaris.
+
+<h3>Sponsored by █▒▓▒░ <a href="http://flexpaper.devaldi.com/">The FlexPaper Project</a></h3>
